@@ -20,5 +20,5 @@ Simply open `index.html` in your web browser to start playing.
 - The first player to align three markers vertically, horizontally, or diagonally wins.
 - Click on the Reset Button to start a new game.
 
-Enjoy the challenge of Tic Tac Toe!
+ [Enjoy the challenge of Tic Tac Toe!](https://aurora204.netlify.app/) !
 
